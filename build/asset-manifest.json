@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/kisses/static/css/main.4482a9f1.css",
-    "main.js": "/kisses/static/js/main.f5f93e45.js",
-    "static/media/audio_1.mp3": "/kisses/static/media/audio_1.87c3940dffaf403e5d02.mp3",
-    "static/media/sprite_cover.png": "/kisses/static/media/sprite_cover.4ce6c2cb6326fd9a1587.png",
-    "static/media/img_table.png": "/kisses/static/media/img_table.c853a9cfd8e632899b4a.png",
-    "static/media/sprite_kisses.png": "/kisses/static/media/sprite_kisses.2d6f87b807c335330adf.png",
-    "static/media/hvd_fonts_-_brandongrotesque-bold-webfont.woff": "/kisses/static/media/hvd_fonts_-_brandongrotesque-bold-webfont.35b82a8106ee7959137d.woff",
-    "static/media/hvd_fonts_-_brandongrotesque-regular-webfont.woff": "/kisses/static/media/hvd_fonts_-_brandongrotesque-regular-webfont.18b95457b9731dd5cfae.woff",
-    "static/media/hvd_fonts_-_brandongrotesque-bold-webfont.woff2": "/kisses/static/media/hvd_fonts_-_brandongrotesque-bold-webfont.de6d53d8b369eaaa226c.woff2",
-    "static/media/hvd_fonts_-_brandongrotesque-regular-webfont.woff2": "/kisses/static/media/hvd_fonts_-_brandongrotesque-regular-webfont.f237ba7d0cb2455a70f8.woff2",
-    "index.html": "/kisses/index.html",
-    "main.4482a9f1.css.map": "/kisses/static/css/main.4482a9f1.css.map",
-    "main.f5f93e45.js.map": "/kisses/static/js/main.f5f93e45.js.map"
+    "main.css": "/kisses/build/static/css/main.aaa9b002.css",
+    "main.js": "/kisses/build/static/js/main.7d7752c2.js",
+    "static/media/audio_1.mp3": "/kisses/build/static/media/audio_1.87c3940dffaf403e5d02.mp3",
+    "static/media/sprite_cover.png": "/kisses/build/static/media/sprite_cover.4ce6c2cb6326fd9a1587.png",
+    "static/media/img_table.png": "/kisses/build/static/media/img_table.c853a9cfd8e632899b4a.png",
+    "static/media/sprite_kisses.png": "/kisses/build/static/media/sprite_kisses.2d6f87b807c335330adf.png",
+    "static/media/hvd_fonts_-_brandongrotesque-bold-webfont.woff": "/kisses/build/static/media/hvd_fonts_-_brandongrotesque-bold-webfont.35b82a8106ee7959137d.woff",
+    "static/media/hvd_fonts_-_brandongrotesque-regular-webfont.woff": "/kisses/build/static/media/hvd_fonts_-_brandongrotesque-regular-webfont.18b95457b9731dd5cfae.woff",
+    "static/media/hvd_fonts_-_brandongrotesque-bold-webfont.woff2": "/kisses/build/static/media/hvd_fonts_-_brandongrotesque-bold-webfont.de6d53d8b369eaaa226c.woff2",
+    "static/media/hvd_fonts_-_brandongrotesque-regular-webfont.woff2": "/kisses/build/static/media/hvd_fonts_-_brandongrotesque-regular-webfont.f237ba7d0cb2455a70f8.woff2",
+    "index.html": "/kisses/build/index.html",
+    "main.aaa9b002.css.map": "/kisses/build/static/css/main.aaa9b002.css.map",
+    "main.7d7752c2.js.map": "/kisses/build/static/js/main.7d7752c2.js.map"
   },
   "entrypoints": [
-    "static/css/main.4482a9f1.css",
-    "static/js/main.f5f93e45.js"
+    "static/css/main.aaa9b002.css",
+    "static/js/main.7d7752c2.js"
   ]
 }
