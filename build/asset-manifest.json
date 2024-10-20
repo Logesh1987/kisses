@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5b7057e0.css",
+    "main.js": "/static/js/main.c8b1bed5.js",
+    "static/media/audio_1.mp3": "/static/media/audio_1.87c3940dffaf403e5d02.mp3",
+    "static/media/sprite_cover.png": "/static/media/sprite_cover.4ce6c2cb6326fd9a1587.png",
+    "static/media/img_table.png": "/static/media/img_table.c853a9cfd8e632899b4a.png",
+    "static/media/sprite_kisses.png": "/static/media/sprite_kisses.2d6f87b807c335330adf.png",
+    "static/media/hvd_fonts_-_brandongrotesque-bold-webfont.woff": "/static/media/hvd_fonts_-_brandongrotesque-bold-webfont.35b82a8106ee7959137d.woff",
+    "static/media/hvd_fonts_-_brandongrotesque-regular-webfont.woff": "/static/media/hvd_fonts_-_brandongrotesque-regular-webfont.18b95457b9731dd5cfae.woff",
+    "static/media/hvd_fonts_-_brandongrotesque-bold-webfont.woff2": "/static/media/hvd_fonts_-_brandongrotesque-bold-webfont.de6d53d8b369eaaa226c.woff2",
+    "static/media/hvd_fonts_-_brandongrotesque-regular-webfont.woff2": "/static/media/hvd_fonts_-_brandongrotesque-regular-webfont.f237ba7d0cb2455a70f8.woff2",
+    "index.html": "/index.html",
+    "main.5b7057e0.css.map": "/static/css/main.5b7057e0.css.map",
+    "main.c8b1bed5.js.map": "/static/js/main.c8b1bed5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b7057e0.css",
+    "static/js/main.c8b1bed5.js"
+  ]
+}
