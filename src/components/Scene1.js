@@ -163,7 +163,7 @@ export default function Scene1({ photos, timeline, index }) {
       .timeline({ autoRemoveChildren: true })
       .add(propDrops())
       .add(propPhotos(), "<")
-      .add(panCamera(), "<+3")
+      .add(panCamera(), "<+2")
       .add(scene1End(), ">");
   };
 

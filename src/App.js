@@ -7,7 +7,7 @@ import Loader from "./components/Loader";
 
 gsap.registerPlugin(useGSAP);
 
-const mp3 = require('../src/assets/audio/audio_1.mp3')
+const mp3 = require('../src/assets/audio/audio.mp3')
 
 export default function Boxes() {
   const container = useRef();
@@ -30,12 +30,6 @@ export default function Boxes() {
     ],
   });
 
-  // const tl = useRef();
-
-  // const toggleTimeline = () => {
-  //   tl.current.reversed(!tl.current.reversed());
-  // };
-
   const handleLoad = (arr) => {
     let i = 0,
       loading = arr.length;
@@ -56,7 +50,7 @@ export default function Boxes() {
     e.preventDefault();
     setPaused(1);
     tl.play()
-    // aud.current.play()
+    aud.current.play()
   };
 
   useGSAP(
