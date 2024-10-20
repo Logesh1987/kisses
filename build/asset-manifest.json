@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/kisses/build/static/css/main.aaa9b002.css",
-    "main.js": "/kisses/build/static/js/main.700987d9.js",
+    "main.js": "/kisses/build/static/js/main.a3c4fb18.js",
     "static/media/audio.mp3": "/kisses/build/static/media/audio.86312a547c4d6ac40d97.mp3",
     "static/media/sprite_cover.png": "/kisses/build/static/media/sprite_cover.4ce6c2cb6326fd9a1587.png",
     "static/media/img_table.png": "/kisses/build/static/media/img_table.c853a9cfd8e632899b4a.png",
@@ -12,10 +12,10 @@
     "static/media/hvd_fonts_-_brandongrotesque-regular-webfont.woff2": "/kisses/build/static/media/hvd_fonts_-_brandongrotesque-regular-webfont.f237ba7d0cb2455a70f8.woff2",
     "index.html": "/kisses/build/index.html",
     "main.aaa9b002.css.map": "/kisses/build/static/css/main.aaa9b002.css.map",
-    "main.700987d9.js.map": "/kisses/build/static/js/main.700987d9.js.map"
+    "main.a3c4fb18.js.map": "/kisses/build/static/js/main.a3c4fb18.js.map"
   },
   "entrypoints": [
     "static/css/main.aaa9b002.css",
-    "static/js/main.700987d9.js"
+    "static/js/main.a3c4fb18.js"
   ]
 }
