@@ -22,11 +22,11 @@ export default function Boxes() {
     message:
       "Having you in my life is like a constant supply of Hershey's kisses — sweet and comforting.",
     photos: [
-      "https://picsum.photos/400/500",
-      "https://picsum.photos/390/480",
-      "https://picsum.photos/399/499",
-      "https://picsum.photos/400/498",
-      "https://picsum.photos/398/500",
+      "https://media.istockphoto.com/id/1294339577/photo/young-beautiful-woman.jpg?s=2048x2048&w=is&k=20&c=uNhM1pcoZ8d_CUWpz9EZNyp_lztV-p_NOp9nFrpgSI4=",
+      "https://media.istockphoto.com/id/130406720/photo/woman-standing-on-city-street-at-night.jpg?s=2048x2048&w=is&k=20&c=JAJ7eDqOytjihxFB8pLGW0VTKZGl4BYQlkpRDokT1w4=",
+      "https://media.istockphoto.com/id/1179747953/photo/our-style-is-influenced-by-our-upbringing.jpg?s=2048x2048&w=is&k=20&c=oHFxSyb5bqJQM6HwFiTFM6hUuyLrE7JNI43dkYo8HWo=",
+      "https://media.istockphoto.com/id/499366700/photo/party-time.jpg?s=2048x2048&w=is&k=20&c=RRQ-TzhYBdQAcHNvhqK87LYHkcIYs-5AMo61gXN7bgw=",
+      "https://media.istockphoto.com/id/1063282288/photo/female-friends-making-a-selfie-at-party.jpg?s=2048x2048&w=is&k=20&c=yCmtuJE_YZqPr3btL8nYjXr-LKRtAi2GQc8lYLowkzU=",
     ],
   });
 
@@ -56,6 +56,7 @@ export default function Boxes() {
   useGSAP(
     () => {
       const master = gsap.timeline({ paused: true });
+      window.tl = master
       setTl(master);
     },
     { scope: container }
