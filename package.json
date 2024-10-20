@@ -2,6 +2,7 @@
   "name": "react",
   "version": "0.0.0",
   "private": true,
+  "homepage": "https://logesh1987.github.io/kisses/",
   "dependencies": {
     "@gsap/react": "^2.1.1",
     "gsap": "^3.12.5",
